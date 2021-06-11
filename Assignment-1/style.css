@@ -1,0 +1,15 @@
+h2 {
+  text-align: center;
+  color: rgb(252, 0, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 300%;
+}
+body {
+  background-color: rgb(3, 243, 163);
+}
+#first {
+  color: rgb(17, 0, 255);
+  text-align: center;
+  padding: 7rem;
+  font-size: 500%;
+}
